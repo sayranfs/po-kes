@@ -7,6 +7,6 @@ export default {
     "O que a pata falou pro pato? Vem quá.",
     "Qual é o rei dos queijos? O Reiqueijão."],
     // english
-    "en": ["C", "D"]
+    "en": ["C", "D", "B"]
   }
 }
